@@ -5,7 +5,7 @@
   "main": "js/color-thief.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/null2/color-thief.git"
+    "url": "git://github.com/vitaefinis/color-thief.git"
   },
   "scripts": {
     "test": "nodeunit test/*-test.js --reporter minimal"
@@ -13,10 +13,10 @@
   "author": "",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/null2/color-thief/issues"
+    "url": "https://github.com/vitaefinis/color-thief/issues"
   },
   "dependencies": {
-    "canvas": "~1.4.0"
+    "canvas": "~1.6.0"
   },
   "devDependencies": {
     "nodeunit": "~0.8.2"
